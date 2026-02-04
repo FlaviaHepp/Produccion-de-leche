@@ -100,7 +100,7 @@ El Random Forest captura mejor posibles **relaciones no lineales** en la serie t
 
 - **Python**
 - **pandas, numpy**
-- **matplotlib, seaborn**
+- **matplotlib, `seaborn**`
 - **scikit-learn**
 
 ---
