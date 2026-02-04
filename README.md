@@ -1,4 +1,4 @@
-# Análisis y predicción de la producción de leche en Maharashtra (India)
+# 🐄 Análisis y predicción de la producción de leche en Maharashtra (India)
 
 Este proyecto analiza la **producción histórica de leche** del estado de Maharashtra (India) y desarrolla modelos de **machine learning** para predecir la producción futura a partir de la tendencia temporal.
 
@@ -6,7 +6,7 @@ El enfoque combina **análisis exploratorio de datos (EDA)**, **visualización**
 
 ---
 
-## 🐄 Contexto del problema
+## 🌏 Contexto del problema
 
 La producción de leche es un indicador clave para:
 - planificación agropecuaria
